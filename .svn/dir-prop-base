@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 85
+! dev profile link
+*.csproj
+*.sln
+*.suo
+*.user
+.project
+.settings
+Properties
+bin
+obj
+
+END
